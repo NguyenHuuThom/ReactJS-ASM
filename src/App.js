@@ -28,5 +28,8 @@ class App extends Component {
     )
   }
 }
-<p>commit lan 1</p>
+//<p>commit lan 1</p>
+<p>commit lan 2</p>
+
+
 export default App;
