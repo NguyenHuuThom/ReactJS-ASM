@@ -32,7 +32,8 @@ class App extends Component {
 //<p>commit lan 2</p>
 //<p>commit lan 3</p>
 //<p>commit lan 6 update app.js</p>
-<p>commit lan 7 update app.js</p>
+//<p>commit lan 7 update app.js</p>
+<p>commit lan 8 update app.js</p>
 
 
 export default App;
