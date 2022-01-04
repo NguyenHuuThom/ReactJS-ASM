@@ -102,7 +102,7 @@ class SalaryList extends Component {
   };
 
   render() {
-
+  //Tinh ham tinh luong va render 
     // render unsort staff array when sort = null
     const STAFFS = this.props.staffs.map((staff) => {
       return (
