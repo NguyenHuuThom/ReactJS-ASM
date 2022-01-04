@@ -41,7 +41,7 @@ class Main extends Component {
         />
       );
     };
-
+//Commit lan 4 dung Router va su dung duong truyen chinh xac
     return (
       <BrowserRouter>
         <div>
