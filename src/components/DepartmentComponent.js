@@ -15,7 +15,7 @@ const DepList = ({departments}) => {
           </div>
       );
     });
-
+//Commit lan 2 phan Link dung react-router-dom 
     return (
       <div className="container">
         <div>
