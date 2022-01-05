@@ -30,7 +30,7 @@ class Staff extends Component {
       </div>
     );
   }
-
+// render giao dien 
   render() {
     const staff = this.props.staffSelected;
     let rendered = <div></div>;
