@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const StaffList = ({staffs}) => {
     const [search, setSearch] = useState("");
-//dung hook su dung tim kiem 
+//dung hook su dung tim kiem voi fucion component
     const STAFFS = staffs.map((staff) => {
       return (
         <Link
@@ -24,7 +24,7 @@ const StaffList = ({staffs}) => {
         </Link>
       );
     });
-
+//dung ham filter va map tim den nguoi dung
     const SEARCH = staffs.filter((staff) => {
       if (search === "") {
         return staff
