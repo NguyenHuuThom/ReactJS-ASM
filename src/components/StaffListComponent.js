@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const StaffList = ({staffs}) => {
     const [search, setSearch] = useState("");
-
+//dung hook su dung tim kiem 
     const STAFFS = staffs.map((staff) => {
       return (
         <Link
