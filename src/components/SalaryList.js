@@ -129,7 +129,7 @@ class SalaryList extends Component {
         </div>
       );
     });
-
+ //render tinh luong sap xep tu thap den cao va nguoc lai
     return (
       <div className="container">
         <div>
