@@ -261,8 +261,9 @@ const StaffList = ({ staffs, updateState }) => {
         </div>
 
       </div>
-
+     
       <div>
+        {/* //Dung toan tu 3 ngoi */}
         {/* hide message when there is no search results */}
         <p>
           {SEARCH === null
