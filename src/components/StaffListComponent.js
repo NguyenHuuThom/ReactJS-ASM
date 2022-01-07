@@ -67,6 +67,7 @@ const StaffList = ({ staffs, updateState }) => {
   });
 
   // render search by name results
+  //render ham tim kiem 
   const handleSearch = (event, Name) => {
     event.preventDefault();
     const name = Name.value;
