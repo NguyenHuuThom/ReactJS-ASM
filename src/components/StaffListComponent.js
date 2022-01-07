@@ -100,6 +100,7 @@ const StaffList = ({ staffs, updateState }) => {
   };
 
   // handle add submit
+  //Yeu cau nhap thong tin 
   const handleSubmit = (event) => {
     event.preventDefault();
 
