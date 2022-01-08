@@ -452,6 +452,7 @@ const StaffList = ({ staffs, updateState }) => {
                 </Col>
               </Row>
               <Row className="mt-2">
+                {/* //them nhung ko truyen  */}
                 <Col md={{ size: 3, offset: 3 }}>
                   <Button type="submit">Thêm</Button>
                 </Col>
