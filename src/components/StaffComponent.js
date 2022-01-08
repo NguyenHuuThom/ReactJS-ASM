@@ -30,7 +30,7 @@ class Staff extends Component {
       </div>
     );
   }
-
+  //truyen props tu tahng cha sang thang con
   render() {
     const staff = this.props.staffSelected;
     let rendered = <div></div>;
