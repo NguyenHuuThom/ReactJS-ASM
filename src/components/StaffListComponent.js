@@ -282,8 +282,9 @@ const StaffList = ({ staffs, updateState }) => {
           ? "Không tìm thấy nhân viên nào"
           : SEARCH}
       </div>
-
+     
       {/* Modal */}
+      {/* Tao model  */}
       <div>
         <Modal
           isOpen={modalOpen}
