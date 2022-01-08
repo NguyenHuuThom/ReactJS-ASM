@@ -29,7 +29,7 @@ class Main extends Component {
 
   render() {
     const StaffWithId = ({ match }) => {
-
+    
       return (
         <Staff
           staffSelected={
