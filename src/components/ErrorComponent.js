@@ -9,5 +9,5 @@ const Error = () => {
         </div>
     )
 }
-
+//Commit lan 2
 export default Error;
